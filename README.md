@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/cewm099lch1t94m1?svg=true)](https://ci.appveyor.com/project/ArtemKlinkov/ajs-symbols-iterators-generators)
+[![Build status](https://ci.appveyor.com/api/projects/status/rkqsx6l92qac76n8?svg=true)](https://ci.appveyor.com/project/ArtemKlinkov/ajs-symbols-iterators-generators-ep649)
